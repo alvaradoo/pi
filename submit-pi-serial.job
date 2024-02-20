@@ -1,0 +1,7 @@
+#!/bin/bash
+#SBATCH --output=pi_serial.log
+module load intel
+for i in 15625000 31250000 62500000 125000000 250000000 500000000 1000000000
+do
+    ./pi_serial_icc $i
+done

@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --output=pi_spmd_padded_wc.log
+module load intel
+
+for i in 2 4 8 16 32 64 128
+do
+    ./pi_spmd_padded_icc $i $((7812500*$i))
+done

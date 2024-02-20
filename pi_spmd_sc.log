@@ -1,0 +1,35 @@
+for 10 iterations:
+  average error = 5.5955240441107890e-14 
+   average time = 0.38533816 seconds
+   number thrds = 2
+   value of n = 1000000000
+for 10 iterations:
+  average error = -1.5099033134902129e-14 
+   average time = 0.19286878 seconds
+   number thrds = 4
+   value of n = 1000000000
+for 10 iterations:
+  average error = 3.8191672047105385e-14 
+   average time = 0.09569106 seconds
+   number thrds = 8
+   value of n = 1000000000
+for 10 iterations:
+  average error = -1.0658141036401503e-14 
+   average time = 0.04812932 seconds
+   number thrds = 16
+   value of n = 1000000000
+for 10 iterations:
+  average error = 1.7763568394002505e-14 
+   average time = 0.02602520 seconds
+   number thrds = 32
+   value of n = 1000000000
+for 10 iterations:
+  average error = -1.0658141036401503e-14 
+   average time = 0.02013731 seconds
+   number thrds = 64
+   value of n = 1000000000
+for 10 iterations:
+  average error = -7.1054273576010019e-15 
+   average time = 0.02676499 seconds
+   number thrds = 128
+   value of n = 1000000000

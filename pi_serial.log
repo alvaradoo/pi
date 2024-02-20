@@ -1,0 +1,28 @@
+for 10 iterations:
+  average error = -4.8849813083506888e-15 
+   average time = 0.01185360 seconds
+ value of n = 15625000
+for 10 iterations:
+  average error = 8.1712414612411521e-14 
+   average time = 0.02372828 seconds
+ value of n = 31250000
+for 10 iterations:
+  average error = 9.4146912488213275e-14 
+   average time = 0.04772089 seconds
+ value of n = 62500000
+for 10 iterations:
+  average error = -1.7763568394002505e-14 
+   average time = 0.09508410 seconds
+ value of n = 125000000
+for 10 iterations:
+  average error = 1.6520118606422329e-13 
+   average time = 0.19008129 seconds
+ value of n = 250000000
+for 10 iterations:
+  average error = 7.5939254884360707e-14 
+   average time = 0.38288491 seconds
+ value of n = 500000000
+for 10 iterations:
+  average error = 5.5955240441107890e-14 
+   average time = 0.76085789 seconds
+ value of n = 1000000000
